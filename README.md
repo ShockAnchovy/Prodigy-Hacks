@@ -1,4 +1,4 @@
-#[Prodigy-Hacks]
+#Prodigy-Hacks
 One of the best Prodigy hacks.
 
 Made by Anchovy.
