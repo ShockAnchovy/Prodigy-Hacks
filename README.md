@@ -4,7 +4,8 @@ One of the best Prodigy hacks.
 
 Made by Anchovy.
 
-
+If you would rather something easier download this (extension)[https://chromewebstore.google.com/detail/prodigy-hacking-extension/afddfnijmdokibafplbpnpmpmccpgpni] made by agrthedev
+  By 
 Features:
 
 Get Gold
