@@ -1,4 +1,4 @@
-#Prodigy-Hacks
+# Prodigy-Hacks
 One of the best Prodigy hacks.
 
 Made by Anchovy.
@@ -9,7 +9,7 @@ If you would rather something easier download this [extension](https://chromeweb
 
 
 
-#[Features]
+# Features
 
 Get Gold
 
